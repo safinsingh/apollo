@@ -13,7 +13,7 @@
   <img alt="A+" src="https://goreportcard.com/badge/github.com/safinsingh/apollo">
   <img alt="PRs Welcome" src="https://img.shields.io/badge/PRs-Welcome-blue.svg">
   <img alt="awesome" src="https://img.shields.io/badge/Awesome-Yes-blueviolet">
-  <br>
+  <br />
   <img alt="gh-actions" src="https://github.com/safinsingh/apollo/workflows/Go/badge.svg" />
 </p>
 
