@@ -1,6 +1,4 @@
-<p align="center">
-  <h1>apollo</h1>
-</p>
+<h1 align="center">apollo</h1>
 
 <h3 align="center">
   <i>
