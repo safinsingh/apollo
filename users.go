@@ -17,13 +17,13 @@ func ParseUsers(file string) []User {
 	return users
 }
 
-// AddAuthUser adds an authorized user and supresses
+// AddAuthUser adds an authorized user and suppresses
 // its output
 func AddAuthUser(user User) {
 	ShellCmd("useradd "+user.Name+" | cat &>/dev/null", "Failed to add user "+user.Name)
 }
 
-// AddAuthSudoer adds an authorized sudoer and supresses
+// AddAuthSudoer adds an authorized sudoer and suppresses
 // its output
 func AddAuthSudoer(user User) {
 	if user.Sudo {
@@ -31,7 +31,7 @@ func AddAuthSudoer(user User) {
 	}
 }
 
-// RemUnauthSudoer removes an authorized sudoer and supresses
+// RemUnauthSudoer removes an authorized sudoer and suppresses
 // its output
 func RemUnauthSudoer(user User) {
 	if !user.Sudo {
