@@ -10,7 +10,6 @@
   <img alt="Version" src="https://img.shields.io/badge/Version-1.0-red.svg" />
   <img alt="License: MIT" src="https://img.shields.io/badge/License-GPLv3-orange.svg" />
   <img alt="Made with Go" src="https://img.shields.io/badge/Made%20with-Go-yellow.svg" />
-  <img alt="A+" src="https://goreportcard.com/badge/github.com/safinsingh/apollo">
   <img alt="PRs Welcome" src="https://img.shields.io/badge/PRs-Welcome-blue.svg">
   <img alt="awesome" src="https://img.shields.io/badge/Awesome-Yes-blueviolet">
   <br />
