@@ -6,6 +6,8 @@
   </i>
 </h3>
 
+## NOTE: This project is being rewritten. See the `dev` branch for more info.
+
 <p align="center">
   <img alt="Version" src="https://img.shields.io/badge/Version-1.0-red.svg" />
   <img alt="License: MIT" src="https://img.shields.io/badge/License-GPLv3-orange.svg" />
