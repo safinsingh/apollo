@@ -1,8 +1,8 @@
-module github.com/safinsingh/apollo
+module apollo
 
-go 1.14
+go 1.15
 
 require (
-	github.com/fatih/color v1.9.0
-	github.com/pkg/errors v0.9.1
+	github.com/safinsingh/apollo v1.0.1 // indirect
+	github.com/safinsingh/stat v1.2.1
 )
